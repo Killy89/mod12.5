@@ -1,0 +1,18 @@
+body {
+    background-color: #018cfd;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.box {
+    margin-top: 200px; 
+}
+
+.tweet {
+    text-decoration: none;
+}
+
