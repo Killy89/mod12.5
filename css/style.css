@@ -16,3 +16,13 @@ h1 {
     text-decoration: none;
 }
 
+button {
+    background-color: rgb(255, 255, 255, 0);
+    color: white;
+    border: solid 1px white;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 50px;  
+}
+
+
